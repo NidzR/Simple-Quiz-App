@@ -11,7 +11,7 @@ Key improvements:
 7. Performance evaluation based on score
 
 To use:
-1. Save as `quiz.py`
+1. Save as `app.py`
 2. Run with `streamlit run app.py`
 
 You can easily add more questions by extending the `questions` dictionary following the same format. The app will:
